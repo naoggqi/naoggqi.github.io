@@ -1,4 +1,4 @@
-# [naoggqi.github.io](https://naoggqi.github.io/)
+# [naoggqi.github.io](https://kawayi.gitbook.io/kawayi-docs/)
 # 91网黑料曝光平台 (https://www.91wan.my)
 作为“91网”旗下的核心曝光平台，[91wan.my](https://www.91wan.my) 致力于打造一个信息汇聚与发布的中心。网站以“黑料曝光”为核心定位，旨在为用户提供一个浏览各类热点爆料内容的入口。其界面设计直观，力求让访客能够迅速触及到当下最受关注的争议性话题与事件。
 
